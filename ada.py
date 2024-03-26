@@ -6,5 +6,5 @@ def ada():
     print(f"{a} {b}".lower())
     print(f"{a} {b}".title())
     print(f"{a} {b}".upper())
-    print(f"    {a} {b}".lower())
+    print(f"\t{a} {b}".lower())
 ada()
