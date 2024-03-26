@@ -7,4 +7,3 @@ def ada():
     print(f"{a} {b}".title())
     print(f"{a} {b}".upper())
     print(f"\t{a} {b}".lower())
-ada()
